@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning operations research
 - 🔭 I’m currently working on several operations research personal projects :
-1. Solving the Travelling Salesperson Problem using a Genetic Algorithm
-2. A presentation (joined with a basic Python code) on Hypergraphs
-3. Solving a Sudoku (could be improved using Constraint Programming)
+1. Writing a solver for Picross (Nonogram) using constraint programming tools
+2. Solving the Travelling Salesperson Problem using a Genetic Algorithm
+3. A presentation (joined with a basic Python code) on Hypergraphs
 
 <!--
 - 👯 I’m looking to collaborate on ...
