@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning operations research
-- 🔭 I’m currently working on several operations research personal projects :
+- 🔭 Here are several operations research-related projects :
 1. Writing a solver for Picross (Nonogram) using constraint programming tools
+  - Another version is on its way
 2. Solving the Travelling Salesperson Problem using a Genetic Algorithm
+  - Benchmarking and comparisons could be done, using ConcordeTSP as reference
 3. A presentation (joined with a basic Python code) on Hypergraphs
 
 <!--
